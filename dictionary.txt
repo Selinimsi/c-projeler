@@ -1,0 +1,46 @@
+*Bir Collection yapısıdır.
+*[Key,Value] ikilisinden oluşur.
+*Generic bir sınıftır.
+*using System.Collections.Generic; kullanmak için bu kütüphaneyi eklemen gerekir.
+*sözlük yapısıdır.
+using System;
+using System.Collections.Generic;
+
+
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Ürün ve stok miktarı içeren bir sözlük tanımlıyoruz
+        Dictionary<string, int> urunler = new Dictionary<string, int>
+        {
+            { "Elma", 50 },
+            { "Muz", 30 },
+            { "Portakal", 40 }
+        };
+
+        // Stok miktarını güncelleme
+        urunler["Elma"] = 45;
+
+        // Yeni ürün ekleme
+        urunler.Add("Çilek", 20);
+
+        // Stok sorgulama ve yazdırma
+        foreach (var urun in urunler)
+        {
+            Console.WriteLine($"{urun.Key}: {urun.Value} adet");
+        }
+
+        // Eleman silme
+        urunler.Remove("Muz");
+
+        Console.WriteLine("\nGüncellenmiş stok durumu:");
+        foreach (var urun in urunler)
+        {
+            Console.WriteLine($"{urun.Key}: {urun.Value} adet");
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\c#notları\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\selin\Desktop\c#notları\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\selin\Desktop\c#notları\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\selin\Desktop\c#notları\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#notları\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\selin\Desktop\c#notları\Metotlar\obj\Debug\Metotlar.pdb
+C:\Users\selin\Desktop\c#notları\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\c#notları\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\selin\Desktop\c#notları\Matematik\bin\Debug\Matematik.exe
+C:\Users\selin\Desktop\c#notları\Matematik\bin\Debug\Matematik.pdb
+C:\Users\selin\Desktop\c#notları\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#notları\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#notları\Matematik\obj\Debug\Matematik.exe
+C:\Users\selin\Desktop\c#notları\Matematik\obj\Debug\Matematik.pdb

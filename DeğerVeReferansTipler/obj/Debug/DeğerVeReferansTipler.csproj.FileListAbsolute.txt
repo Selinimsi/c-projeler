@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\bin\Debug\DeğerVeReferansTipler.exe.config
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\bin\Debug\DeğerVeReferansTipler.exe
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\bin\Debug\DeğerVeReferansTipler.pdb
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\obj\Debug\DeğerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\obj\Debug\DeğerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\obj\Debug\DeğerVeReferansTipler.exe
+C:\Users\selin\Desktop\c#notları\DeğerVeReferansTipler\obj\Debug\DeğerVeReferansTipler.pdb

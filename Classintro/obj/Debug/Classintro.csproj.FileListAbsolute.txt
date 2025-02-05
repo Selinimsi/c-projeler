@@ -1,0 +1,7 @@
+C:\Users\selin\Desktop\c#notları\Classintro\bin\Debug\Classintro.exe.config
+C:\Users\selin\Desktop\c#notları\Classintro\bin\Debug\Classintro.exe
+C:\Users\selin\Desktop\c#notları\Classintro\bin\Debug\Classintro.pdb
+C:\Users\selin\Desktop\c#notları\Classintro\obj\Debug\Classintro.csproj.AssemblyReference.cache
+C:\Users\selin\Desktop\c#notları\Classintro\obj\Debug\Classintro.csproj.CoreCompileInputs.cache
+C:\Users\selin\Desktop\c#notları\Classintro\obj\Debug\Classintro.exe
+C:\Users\selin\Desktop\c#notları\Classintro\obj\Debug\Classintro.pdb

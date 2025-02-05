@@ -1,0 +1,37 @@
+--------------Nesne yönrlimli programlama---------------
+*snippet--> hazır kod
+*prodoctları yazarken sıra ile ilk önce ıd sonra categoryıd si yazılır.Bunun sebebi kod okunurluğunu artırmaktır.
+*ProductManager:ürünle ilgili operasyonlar içerir.
+*PascalCase:Classların ilk harfinin büyük yazılmasıdır.
+*camelCase:kelimenin ilk harfinin küçük bitişiğindeki diğer kelimenin büyük yazılmasıdır.Örnek:userName
+*case sensative:büyük küçük harfe duyarlı
+-------------Void metodu----------------------------
+*geri işlem döndürmen gerekmediğinde kullanırsın.
+-------------------GenericsIntro--------------------
+*Bu sistem tip güvenliğini sağlar. Bundan kastım int olarak tanımlanan bir değişkene string bir değer koymamı engeller. Classlar içinde kullanılabilir.
+Örnek:
+// T, generic bir tip parametresidir
+public class GenericClass<T>
+{
+    private T item;
+
+    public GenericClass(T value)
+    {
+        item = value;
+    }
+
+    public T GetItem()
+    {
+        return item;
+    }
+}
+
+------------------constructor----------------------------------
+* Çalıştırılan nesnenin başlangıç konumunu belirleyen metotlardır .
+*Sınıfla aynı isme sahiptir.
+*tanımlanmazsa c# otomatik tanımlar.
+*aynı yapıya bir kaç tane constructor tanımlanabilir.
+* Parametresiz , parametreli , statik ,overloaded ve private olmak üzere 5 türü bulunur.
+-----------------interfaceler----------------------------------
+*İnterfaceler bi şablon sunar ve onların alt elemanları bu şablonlara uymak zorundadırlar.
+*birbirinin alternatifi olan am kod içerikleri farklı olan durular için kullanırız.

@@ -1,0 +1,28 @@
+encupslation: bir classa ait belirli özellikleri tutan proportilerdir.Düzenlemeye yarar.
+------------Değer ve referans tipler---------------
+değer veri tipleri---> int,boolen,sting sadece değerle ilgilidir. Bir değişkene sadece değer atarsın.Eğer değer tipteki bir değişkeni referance tipe çevirmek istersen değişkenin başına ref yaz.Alternatifi out başta değer tanımlamadıysan out kullan.
+referance veri tipleri----> aray,interface,class
+stack ve heap diye iki farklı bellek merkezi vardır dğer veri tipleri sadec stackde tutulur.Örneğin: int y=7;bu sadece belleğin stack kısmında depolanır . ancak referance veri tipleri dizinin ismini stack kısmında tutarken elemamlarını head kısmında tutar ve bunları bir referance numarasıyla birbirine eşitler.
+Örnek:
+int[] sayilar1=new int[] {10,20,30};
+int[] sayilar2=new int[] {100,200,300};
+sayilar1=sayilar2;
+sayilar2[0]=777;
+sayilar1[0]=?
+bu örneğin cevabı 777 çünkü sayilar1 in referance  numarası artık sayi 2 ninki.
+---------------METOTLAR---------------------------------------
+*Do not repat yourself
+*void=bir işlemi kaydetmek için kullanılır.
+static int/*hangi türde değişkeb döndüreceksen onu yaz*/ add2(int num1,num2){
+var result number1+number2;
+return result;
+}
+*Metot parametreleri imzasını değiştirmeden arttırılabilir.
+Toplama: Sum() metodu kullanılır.
+Çıkarma: Aggregate() kullanarak, tüm elemanlar arasında çıkarma işlemi yapılır.
+Çarpma: Aggregate() ile çarpma işlemi yapılır.
+Bölme: Aggregate() ile bölme işlemi yapılır.
+* yapıcağın işleme girecek elemanın belirli bir sayısı yoksa params metotu kullanılır.
+**DEFAULT PARAMETRELER
+*sondan başlayarak parametrelere verilen değerdir. 
+*Varsayılan bir değer koyarız değişkene default parametreler sayesinde,genelde sıklıkla kullanılan veriler konulur.
